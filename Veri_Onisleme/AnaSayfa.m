@@ -1,7 +1,7 @@
 clc;
 %clear all;
 
-veri = xlsread("MemeKanseriVerilerim.xlsx");
+veri = xlsread("Meme_Kanseri_Verileri.xlsx");
 
 while(1==1)
     disp("[0] - Verileri Gosterme");
